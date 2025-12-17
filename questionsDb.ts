@@ -2,7 +2,7 @@ import { RawQuestion } from './types';
 
 export const fetchQuestions = async (): Promise<RawQuestion[]> => {
   try {
-    const response = await fetch('/questions-db.json');
+    const response = await fetch('./questions-db.json');
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
