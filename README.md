@@ -1,4 +1,14 @@
+![教育哲學考試複習系統](./FJU-Educational-Philosophy-EXAM-PRACTICE.png)
+
 # Exam Prep Master - 智慧考試準備系統
+
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/CXPhoenix/exam-prepare-master/deploy.yml?label=Deploy)
+![GitHub license](https://img.shields.io/github/license/CXPhoenix/exam-prepare-master)
+![GitHub last commit](https://img.shields.io/github/last-commit/CXPhoenix/exam-prepare-master)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
 歡迎使用 **Exam Prep Master**。這是一個專為考生打造的現代化刷題與學習系統，採用 React 與 Tailwind CSS 構建。本系統特別針對「教檢」、「高普考」或各類學科測驗設計，結合了傳統的刷題功能與現代化的 AI 分析輔助，幫助您更有效率地掌握知識盲點。
 
